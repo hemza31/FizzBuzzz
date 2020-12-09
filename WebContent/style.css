@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+header {
+  overflow: auto;
+  border-bottom: 1px solid darkslategray;
+}
+
+h2 {
+text-align: center;
+font-family: Georgia, serif;
+color : #425BB5;
+}
+
+body {
+  overflow: auto;
+  clear: both;
+  border: solid;
+  border-color: rgba(0,0,0,0.75);
+  width : 50%;
+  heigth : 50%;
+  margin : 50px;
+  padding : 50px;
+}
+
+p {
+  padding: 3px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-color : blue;
+  color:#425BB5;
+  font-weight: bold;
+  font-family: Georgia, serif;
+}
